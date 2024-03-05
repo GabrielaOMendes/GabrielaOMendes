@@ -1,8 +1,8 @@
-### Oii! eu sou a Gabriela Mendes
+### Hi There! My name is Gabriela Mendes
 
-- 🌱 Hoje curso Desenvolvimento de Análise de Sistemas
-- 📫 Contate-me no email: gabrielaorm@outlook.com
-- 😄 Pronouns: ela/dela
+- 🌱 Studying systems development
+- 📫 Contact me on email: gabrielaorm@outlook.com
+- 😄 Pronouns: she/her
 
 
 <div style="display: inline_block"><br>
