@@ -1,7 +1,7 @@
 ### Hi There! My name is Gabriela Mendes
 
 - 🌱 Studying systems development
-- 📫 Contact me on email: gabrielaorm@outlook.com
+- 📫 Contact me on my email: gabrielaorm@outlook.com
 - 😄 Pronouns: she/her
 
 
